@@ -13,7 +13,7 @@ An interactive Streamlit app that uncovers patterns, genres, trends, and actor-d
 ## 🚀 Run Locally
 
 1. Clone the repo:
-git clone https://github.com/yourusername/netflix-dashboard-app.git
+git clone https://github.com/unknownsteve7/Netflix-dashboard.git
 cd netflix-dashboard-app
 
 2. Install dependencies:

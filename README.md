@@ -1,8 +1,8 @@
-# 📊 Netflix Data Analysis Dashboard
+#  Netflix Data Analysis Dashboard
 
 An interactive Streamlit app that uncovers patterns, genres, trends, and actor-director networks from Netflix's content using data science.
 
-## 🔍 Features
+##  Features
 - Country-wise content availability
 - Monthly content release trends
 - Most popular genres and ratings
@@ -10,7 +10,7 @@ An interactive Streamlit app that uncovers patterns, genres, trends, and actor-d
 - Actor-Director Network Graph
 - TV Shows vs. Movies trend analysis
 
-## 🚀 Run Locally
+##  Run Locally
 
 1. Clone the repo:
 git clone https://github.com/unknownsteve7/Netflix-dashboard.git
@@ -22,15 +22,15 @@ pip install -r requirements.txt
 3. Start the app:
 streamlit run app.py
 
-## 📂 Dataset
+##  Dataset
 Make sure `cleaned_netflix_data.csv` is present in the root directory.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - Streamlit
 - Seaborn, Matplotlib
 
-## 💡 Inspiration
+##  Inspiration
 Built for hands-on learning in data analysis and visualization with real-world datasets.
 
